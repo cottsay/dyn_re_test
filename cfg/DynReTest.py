@@ -1,4 +1,4 @@
-#!/bin/env python
+#!/usr/bin/env python
 
 PACKAGE = "dyn_re_test"
 
